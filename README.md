@@ -1,3 +1,3 @@
 # github-user-finder
 
-stest
+testing
